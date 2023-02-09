@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod +x tmp/hello
+chmod u+x /tmp/hello
